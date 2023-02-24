@@ -1,6 +1,10 @@
+# About this repository
+
 The [Service Name and Transport Protocol Port Number Registry](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml) is available as a 12-column table in CSV, XML, HTML and plain text.
 
 The current repository provides a convenient 5-column Markdown table (around 1.5MiB): [Service Name and Transport Protocol Port Number Registry in Markdown format](service-names-port-numbers-formatted.md).
+
+# Preview
 
 Here's a preview (the complete file has more than 14,000 lines):
 
@@ -57,3 +61,7 @@ Here's a preview (the complete file has more than 14,000 lines):
 | 22 | tcp | ssh | The Secure Shell (SSH) Protocol | reference: RFC4251 | assignment notes: Defined TXT keys: u=<username> p=<password> |
 | 22 | udp | ssh | The Secure Shell (SSH) Protocol | reference: RFC4251 | assignment notes: Defined TXT keys: u=<username> p=<password> |
 | 22 | sctp | ssh | SSH | assignee: Randall Stewart | contact: Randall Stewart | modification date: 2022-02-07 | reference: RFC9260 | assignment notes: Defined TXT keys: u=<username> p=<password> |
+
+# License
+
+The Internet Corporation for Assigned Names and Numbers (ICANN) and the Internet Engineering Task Force (IETF) Trust state in the [licensing terms](https://www.iana.org/help/licensing-terms) that the registry is subject to the [Creative Commons CC0 1.0 public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/legalcode). See the file [COPYING](COPYING).
