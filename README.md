@@ -2,15 +2,17 @@
 
 The [Service Name and Transport Protocol Port Number Registry](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml) is available as a 12-column table in CSV, XML, HTML and plain text.
 
-The current repository provides a convenient 5-column Markdown table containing all the data of the registry:
+The current repository provides a convenient 5-column HTML/Markdown table containing all the data of the registry:
 
-- [complete registry](service-names-port-numbers-all.md) (around 1.5MiB)
-- [first half of the registry](service-names-port-numbers-1.md)
-- [second half of the registry](service-names-port-numbers-2.md)
+- complete registry:
+  - [complete registry in Markdown format](service-names-port-numbers-all.md) (around 1.5MiB)
+  - [complete registry in HTML format](https://misaki-web.github.io/service-names-port-numbers-in-markdown/) (around 2.7MiB)
+- [first half of the registry in Markdown format](service-names-port-numbers-1.md)
+- [second half of the registry in Markdown format](service-names-port-numbers-2.md)
 
 There's also a trimmed version as a 4-column Markdown table:
 
-- [4-column light version of the registry](service-names-port-numbers-trimmed.md)
+- [4-column light version of the registry in Markdown format](service-names-port-numbers-trimmed.md)
 
 # Preview
 
